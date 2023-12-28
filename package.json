@@ -1,5 +1,5 @@
 {
-  "name": "@daipeng7/rollup-plugin-spritesmith",
+  "name": "rollup-plugin-mock-spritesmith",
   "version": "1.4.0",
   "description": "It is a rollup plugin for sprite",
   "homepage": "https://github.com/daipeng7/rollup-plugin-spritesmith",
